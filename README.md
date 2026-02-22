@@ -29,12 +29,17 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=data-venger&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-venger&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=data-venger&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=data-venger&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=data-venger&theme=tokyonight&utcOffset=5.5" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=data-venger&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=data-venger&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=data-venger&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 </p>
 
 ---
